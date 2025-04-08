@@ -3,7 +3,7 @@
 [Code Setup]
 - Select GPU if available
 - Import the libraries at the top of the notebook
-- Load the data file (located in Data folder): One-Hot_Encoded_Tags_with_Metadata.csv, 
+- Load the data file (located in Data folder): compbine the two csv files One-Hot_Encoded_Tags_with_Metadata_Part_1.csv and One-Hot_Encoded_Tags_with_Metadata_Part_2.csv into one csv file called One-Hot_Encoded_Tags_with_Metadata.csv
 - Load the dataset: Run the code in section: Data processing
 - Load the model in: ClassifierD3() in section Model
 
